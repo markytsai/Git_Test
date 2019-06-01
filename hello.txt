@@ -4,7 +4,7 @@ add in dev
 add bbbbb and ddddd test
 aaaaaa && ccccc
 <<<<<<< HEAD
-mike hahaha
+mike
 mike
 no mike
 1
