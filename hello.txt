@@ -6,6 +6,6 @@ aaaaaa && ccccc
 <<<<<<< HEAD
 mike
 mike
-no mike
+no 
 1
 1
